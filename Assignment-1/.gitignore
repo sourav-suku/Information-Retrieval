@@ -1,0 +1,13 @@
+# Project specific files
+data/
+info_ret/
+ECTText.txt
+ECTNestedDict/
+ECTText/
+*.json
+RESULTS1_17EC10063.txt
+ECT/
+debug.py
+out.txt
+toDo.txt
+tokens.txt
