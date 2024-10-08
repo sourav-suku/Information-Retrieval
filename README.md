@@ -1,4 +1,4 @@
-# BioMedical IR System Information-Retrieval
+# BioMedical IR System[Information-Retrieval]
 
 
   * Building Inverted Positional Index and Answering Specialized Wildcard Queries
