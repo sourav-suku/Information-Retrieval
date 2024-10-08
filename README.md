@@ -1,4 +1,4 @@
-# BioMedical IR System[Information-Retrieval]
+# BioMedical IR System
 
 
   * Building Inverted Positional Index and Answering Specialized Wildcard Queries
@@ -13,4 +13,3 @@
   * Implementation & Classification of text docs using the following classifiers
     * Naive Bayes (Multinomial & Bernoulli)
     * Rocchio Classifier
-    * kNN Classifier
