@@ -13,3 +13,6 @@
   * Implementation & Classification of text docs using the following classifiers
     * Naive Bayes (Multinomial & Bernoulli)
     * Rocchio Classifier
+  * Metrics used :
+    * Mean Average Precision(MAP)
+    * Normalised Discounted Cumulative Gain(NDCG)
